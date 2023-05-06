@@ -2,154 +2,154 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://me.chjiyun.com/</loc>
+        <loc>https://me.chjiyun.com/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
 
     <url>
-        <loc>http://me.chjiyun.com/categories/javascript/</loc>
+        <loc>https://me.chjiyun.com/categories/javascript/</loc>
         <lastmod>2023-05-06T15:10:32.904Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/angular/</loc>
+        <loc>https://me.chjiyun.com/categories/angular/</loc>
         <lastmod>2023-05-06T15:10:29.860Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/blog/</loc>
+        <loc>https://me.chjiyun.com/categories/blog/</loc>
         <lastmod>2023-04-30T04:30:54.849Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/CSS/</loc>
+        <loc>https://me.chjiyun.com/categories/CSS/</loc>
         <lastmod>2023-04-16T10:03:18.940Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/markdown/</loc>
+        <loc>https://me.chjiyun.com/categories/markdown/</loc>
         <lastmod>2023-04-16T10:03:18.937Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/docker/</loc>
+        <loc>https://me.chjiyun.com/categories/docker/</loc>
         <lastmod>2023-04-16T10:03:18.936Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/%25E6%2595%2599%25E7%25A8%258B/</loc>
+        <loc>https://me.chjiyun.com/categories/%25E6%2595%2599%25E7%25A8%258B/</loc>
         <lastmod>2023-04-16T10:03:18.935Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/ssh-key/</loc>
+        <loc>https://me.chjiyun.com/categories/ssh-key/</loc>
         <lastmod>2023-04-16T10:03:18.933Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/javascript/canvas/</loc>
+        <loc>https://me.chjiyun.com/categories/javascript/canvas/</loc>
         <lastmod>2023-04-16T10:03:18.932Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/cdn/</loc>
+        <loc>https://me.chjiyun.com/categories/cdn/</loc>
         <lastmod>2023-04-16T10:03:18.930Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/SEO/</loc>
+        <loc>https://me.chjiyun.com/categories/SEO/</loc>
         <lastmod>2023-04-16T10:03:18.929Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/%25E6%2595%2599%25E7%25A8%258B/hexo/</loc>
+        <loc>https://me.chjiyun.com/categories/%25E6%2595%2599%25E7%25A8%258B/hexo/</loc>
         <lastmod>2023-04-16T10:03:18.927Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/%25E5%25B7%25A5%25E5%2585%25B7/</loc>
+        <loc>https://me.chjiyun.com/categories/%25E5%25B7%25A5%25E5%2585%25B7/</loc>
         <lastmod>2023-04-16T10:03:18.925Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/redis/</loc>
+        <loc>https://me.chjiyun.com/categories/redis/</loc>
         <lastmod>2023-04-16T10:03:18.923Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/egg/</loc>
+        <loc>https://me.chjiyun.com/categories/egg/</loc>
         <lastmod>2023-04-16T10:03:18.920Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/centos/</loc>
+        <loc>https://me.chjiyun.com/categories/centos/</loc>
         <lastmod>2023-04-16T10:03:18.918Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/go/%25E5%25B7%25A5%25E5%2585%25B7/</loc>
+        <loc>https://me.chjiyun.com/categories/go/%25E5%25B7%25A5%25E5%2585%25B7/</loc>
         <lastmod>2023-04-16T10:03:18.915Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/go/</loc>
+        <loc>https://me.chjiyun.com/categories/go/</loc>
         <lastmod>2023-04-16T10:03:18.915Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/nginx/</loc>
+        <loc>https://me.chjiyun.com/categories/nginx/</loc>
         <lastmod>2023-04-16T10:03:18.914Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/HTML5/</loc>
+        <loc>https://me.chjiyun.com/categories/HTML5/</loc>
         <lastmod>2023-04-16T10:03:18.912Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/categories/javascript/%25E5%258F%25AF%25E8%25A7%2586%25E5%258C%2596/</loc>
+        <loc>https://me.chjiyun.com/categories/javascript/%25E5%258F%25AF%25E8%25A7%2586%25E5%258C%2596/</loc>
         <lastmod>2023-04-16T10:03:18.911Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>

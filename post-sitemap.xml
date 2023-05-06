@@ -2,14 +2,14 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://me.chjiyun.com/</loc>
+        <loc>https://me.chjiyun.com/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
 
     <url>
-        <loc>http://me.chjiyun.com/p/2f57a694.html</loc>
+        <loc>https://me.chjiyun.com/p/2f57a694.html</loc>
         <lastmod>2023-05-06T15:10:32.904Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -17,7 +17,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/877439e.html</loc>
+        <loc>https://me.chjiyun.com/p/877439e.html</loc>
         <lastmod>2023-05-06T15:10:29.860Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -25,7 +25,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/89dfcbb1.html</loc>
+        <loc>https://me.chjiyun.com/p/89dfcbb1.html</loc>
         <lastmod>2023-04-30T04:30:54.849Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -33,7 +33,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/b11c2ea.html</loc>
+        <loc>https://me.chjiyun.com/p/b11c2ea.html</loc>
         <lastmod>2023-04-16T10:03:18.940Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -41,7 +41,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/9a59e94d.html</loc>
+        <loc>https://me.chjiyun.com/p/9a59e94d.html</loc>
         <lastmod>2023-04-16T10:03:18.937Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -49,7 +49,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/83d58142.html</loc>
+        <loc>https://me.chjiyun.com/p/83d58142.html</loc>
         <lastmod>2023-04-16T10:03:18.936Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -57,7 +57,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/8c570fd4.html</loc>
+        <loc>https://me.chjiyun.com/p/8c570fd4.html</loc>
         <lastmod>2023-04-16T10:03:18.935Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -65,7 +65,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/9f1d61c1.html</loc>
+        <loc>https://me.chjiyun.com/p/9f1d61c1.html</loc>
         <lastmod>2023-04-16T10:03:18.933Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -73,7 +73,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/7f88f485.html</loc>
+        <loc>https://me.chjiyun.com/p/7f88f485.html</loc>
         <lastmod>2023-04-16T10:03:18.932Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -81,7 +81,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/16e253ee.html</loc>
+        <loc>https://me.chjiyun.com/p/16e253ee.html</loc>
         <lastmod>2023-04-16T10:03:18.930Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -89,7 +89,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/1f7baa70.html</loc>
+        <loc>https://me.chjiyun.com/p/1f7baa70.html</loc>
         <lastmod>2023-04-16T10:03:18.929Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -97,7 +97,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/f797c2c0.html</loc>
+        <loc>https://me.chjiyun.com/p/f797c2c0.html</loc>
         <lastmod>2023-04-16T10:03:18.927Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -105,7 +105,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/ada2885b.html</loc>
+        <loc>https://me.chjiyun.com/p/ada2885b.html</loc>
         <lastmod>2023-04-16T10:03:18.925Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -113,7 +113,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/28fd4be1.html</loc>
+        <loc>https://me.chjiyun.com/p/28fd4be1.html</loc>
         <lastmod>2023-04-16T10:03:18.923Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -121,7 +121,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/8d911ef0.html</loc>
+        <loc>https://me.chjiyun.com/p/8d911ef0.html</loc>
         <lastmod>2023-04-16T10:03:18.922Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -129,7 +129,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/7e3dcd55.html</loc>
+        <loc>https://me.chjiyun.com/p/7e3dcd55.html</loc>
         <lastmod>2023-04-16T10:03:18.920Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -137,7 +137,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/47608a87.html</loc>
+        <loc>https://me.chjiyun.com/p/47608a87.html</loc>
         <lastmod>2023-04-16T10:03:18.918Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -145,7 +145,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/4a17b156.html</loc>
+        <loc>https://me.chjiyun.com/p/4a17b156.html</loc>
         <lastmod>2023-04-16T10:03:18.917Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -153,7 +153,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/732c4768.html</loc>
+        <loc>https://me.chjiyun.com/p/732c4768.html</loc>
         <lastmod>2023-04-16T10:03:18.915Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -161,7 +161,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/fd3d3d5f.html</loc>
+        <loc>https://me.chjiyun.com/p/fd3d3d5f.html</loc>
         <lastmod>2023-04-16T10:03:18.914Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -169,7 +169,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/7d6916fb.html</loc>
+        <loc>https://me.chjiyun.com/p/7d6916fb.html</loc>
         <lastmod>2023-04-16T10:03:18.912Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -177,7 +177,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/c7a696d1.html</loc>
+        <loc>https://me.chjiyun.com/p/c7a696d1.html</loc>
         <lastmod>2023-04-16T10:03:18.911Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -185,7 +185,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/377982.html</loc>
+        <loc>https://me.chjiyun.com/p/377982.html</loc>
         <lastmod>2023-04-16T10:03:18.909Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -193,7 +193,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/920defb.html</loc>
+        <loc>https://me.chjiyun.com/p/920defb.html</loc>
         <lastmod>2023-04-16T10:03:18.906Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -201,7 +201,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/6198d1c8.html</loc>
+        <loc>https://me.chjiyun.com/p/6198d1c8.html</loc>
         <lastmod>2023-04-16T10:03:18.905Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -209,7 +209,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/b9ce5a07.html</loc>
+        <loc>https://me.chjiyun.com/p/b9ce5a07.html</loc>
         <lastmod>2023-04-16T10:03:18.904Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
@@ -217,7 +217,7 @@
     </url>
 
     <url>
-        <loc>http://me.chjiyun.com/p/342ecda0.html</loc>
+        <loc>https://me.chjiyun.com/p/342ecda0.html</loc>
         <lastmod>2023-04-16T10:03:18.902Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>

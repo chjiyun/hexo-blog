@@ -3,11 +3,11 @@
   <title>Ryan&#39;s blog</title>
   
   <subtitle>Can only sense happiness</subtitle>
-  <link href="http://me.chjiyun.com/atom.xml" rel="self"/>
+  <link href="https://me.chjiyun.com/atom.xml" rel="self"/>
   
-  <link href="http://me.chjiyun.com/"/>
+  <link href="https://me.chjiyun.com/"/>
   <updated>2023-04-30T04:30:54.849Z</updated>
-  <id>http://me.chjiyun.com/</id>
+  <id>https://me.chjiyun.com/</id>
   
   <author>
     <name>chjiyun</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>hexo blog优化之路</title>
-    <link href="http://me.chjiyun.com/p/89dfcbb1"/>
-    <id>http://me.chjiyun.com/p/89dfcbb1</id>
+    <link href="https://me.chjiyun.com/p/89dfcbb1"/>
+    <id>https://me.chjiyun.com/p/89dfcbb1</id>
     <published>2023-04-29T14:01:11.000Z</published>
     <updated>2023-04-30T04:30:54.849Z</updated>
     
@@ -30,19 +30,19 @@
     
     
     
-    <category term="blog" scheme="http://me.chjiyun.com/categories/blog/"/>
+    <category term="blog" scheme="https://me.chjiyun.com/categories/blog/"/>
     
     
-    <category term="hexo" scheme="http://me.chjiyun.com/tags/hexo/"/>
+    <category term="hexo" scheme="https://me.chjiyun.com/tags/hexo/"/>
     
-    <category term="theme-next" scheme="http://me.chjiyun.com/tags/theme-next/"/>
+    <category term="theme-next" scheme="https://me.chjiyun.com/tags/theme-next/"/>
     
   </entry>
   
   <entry>
     <title>服务器迁移及docker部署</title>
-    <link href="http://me.chjiyun.com/p/83d58142"/>
-    <id>http://me.chjiyun.com/p/83d58142</id>
+    <link href="https://me.chjiyun.com/p/83d58142"/>
+    <id>https://me.chjiyun.com/p/83d58142</id>
     <published>2023-04-09T05:01:03.000Z</published>
     <updated>2023-04-16T10:03:18.936Z</updated>
     
@@ -53,19 +53,19 @@
     
     
     
-    <category term="docker" scheme="http://me.chjiyun.com/categories/docker/"/>
+    <category term="docker" scheme="https://me.chjiyun.com/categories/docker/"/>
     
     
-    <category term="备份迁移" scheme="http://me.chjiyun.com/tags/%E5%A4%87%E4%BB%BD%E8%BF%81%E7%A7%BB/"/>
+    <category term="备份迁移" scheme="https://me.chjiyun.com/tags/%E5%A4%87%E4%BB%BD%E8%BF%81%E7%A7%BB/"/>
     
-    <category term="docker" scheme="http://me.chjiyun.com/tags/docker/"/>
+    <category term="docker" scheme="https://me.chjiyun.com/tags/docker/"/>
     
   </entry>
   
   <entry>
     <title>redis实现封禁客户端ip</title>
-    <link href="http://me.chjiyun.com/p/28fd4be1"/>
-    <id>http://me.chjiyun.com/p/28fd4be1</id>
+    <link href="https://me.chjiyun.com/p/28fd4be1"/>
+    <id>https://me.chjiyun.com/p/28fd4be1</id>
     <published>2022-05-10T10:29:06.000Z</published>
     <updated>2023-04-16T10:03:18.923Z</updated>
     
@@ -76,19 +76,19 @@
     
     
     
-    <category term="redis" scheme="http://me.chjiyun.com/categories/redis/"/>
+    <category term="redis" scheme="https://me.chjiyun.com/categories/redis/"/>
     
     
-    <category term="egg" scheme="http://me.chjiyun.com/tags/egg/"/>
+    <category term="egg" scheme="https://me.chjiyun.com/tags/egg/"/>
     
-    <category term="redis" scheme="http://me.chjiyun.com/tags/redis/"/>
+    <category term="redis" scheme="https://me.chjiyun.com/tags/redis/"/>
     
   </entry>
   
   <entry>
     <title>egg如何让用户下线</title>
-    <link href="http://me.chjiyun.com/p/7e3dcd55"/>
-    <id>http://me.chjiyun.com/p/7e3dcd55</id>
+    <link href="https://me.chjiyun.com/p/7e3dcd55"/>
+    <id>https://me.chjiyun.com/p/7e3dcd55</id>
     <published>2021-11-17T02:18:15.000Z</published>
     <updated>2023-04-16T10:03:18.920Z</updated>
     
@@ -99,19 +99,19 @@
     
     
     
-    <category term="egg" scheme="http://me.chjiyun.com/categories/egg/"/>
+    <category term="egg" scheme="https://me.chjiyun.com/categories/egg/"/>
     
     
-    <category term="egg" scheme="http://me.chjiyun.com/tags/egg/"/>
+    <category term="egg" scheme="https://me.chjiyun.com/tags/egg/"/>
     
-    <category term="session" scheme="http://me.chjiyun.com/tags/session/"/>
+    <category term="session" scheme="https://me.chjiyun.com/tags/session/"/>
     
   </entry>
   
   <entry>
     <title>air实现go应用实时热重载</title>
-    <link href="http://me.chjiyun.com/p/732c4768"/>
-    <id>http://me.chjiyun.com/p/732c4768</id>
+    <link href="https://me.chjiyun.com/p/732c4768"/>
+    <id>https://me.chjiyun.com/p/732c4768</id>
     <published>2020-08-28T06:46:50.000Z</published>
     <updated>2023-04-16T10:03:18.915Z</updated>
     
@@ -129,21 +129,21 @@
     
     
     
-    <category term="go" scheme="http://me.chjiyun.com/categories/go/"/>
+    <category term="go" scheme="https://me.chjiyun.com/categories/go/"/>
     
-    <category term="工具" scheme="http://me.chjiyun.com/categories/go/%E5%B7%A5%E5%85%B7/"/>
+    <category term="工具" scheme="https://me.chjiyun.com/categories/go/%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="air" scheme="http://me.chjiyun.com/tags/air/"/>
+    <category term="air" scheme="https://me.chjiyun.com/tags/air/"/>
     
-    <category term="go" scheme="http://me.chjiyun.com/tags/go/"/>
+    <category term="go" scheme="https://me.chjiyun.com/tags/go/"/>
     
   </entry>
   
   <entry>
     <title>centos7部署Node开发环境</title>
-    <link href="http://me.chjiyun.com/p/47608a87"/>
-    <id>http://me.chjiyun.com/p/47608a87</id>
+    <link href="https://me.chjiyun.com/p/47608a87"/>
+    <id>https://me.chjiyun.com/p/47608a87</id>
     <published>2019-11-16T14:48:28.000Z</published>
     <updated>2023-04-16T10:03:18.918Z</updated>
     
@@ -154,19 +154,19 @@
     
     
     
-    <category term="centos" scheme="http://me.chjiyun.com/categories/centos/"/>
+    <category term="centos" scheme="https://me.chjiyun.com/categories/centos/"/>
     
     
-    <category term="centos" scheme="http://me.chjiyun.com/tags/centos/"/>
+    <category term="centos" scheme="https://me.chjiyun.com/tags/centos/"/>
     
-    <category term="部署" scheme="http://me.chjiyun.com/tags/%E9%83%A8%E7%BD%B2/"/>
+    <category term="部署" scheme="https://me.chjiyun.com/tags/%E9%83%A8%E7%BD%B2/"/>
     
   </entry>
   
   <entry>
     <title>利用canvas拼接图片并导出或上传</title>
-    <link href="http://me.chjiyun.com/p/7f88f485"/>
-    <id>http://me.chjiyun.com/p/7f88f485</id>
+    <link href="https://me.chjiyun.com/p/7f88f485"/>
+    <id>https://me.chjiyun.com/p/7f88f485</id>
     <published>2019-08-23T16:54:11.000Z</published>
     <updated>2023-04-16T10:03:18.932Z</updated>
     
@@ -177,19 +177,19 @@
     
     
     
-    <category term="javascript" scheme="http://me.chjiyun.com/categories/javascript/"/>
+    <category term="javascript" scheme="https://me.chjiyun.com/categories/javascript/"/>
     
-    <category term="canvas" scheme="http://me.chjiyun.com/categories/javascript/canvas/"/>
+    <category term="canvas" scheme="https://me.chjiyun.com/categories/javascript/canvas/"/>
     
     
-    <category term="canvas" scheme="http://me.chjiyun.com/tags/canvas/"/>
+    <category term="canvas" scheme="https://me.chjiyun.com/tags/canvas/"/>
     
   </entry>
   
   <entry>
     <title>Interactive-Bubble-Chart</title>
-    <link href="http://me.chjiyun.com/p/920defb"/>
-    <id>http://me.chjiyun.com/p/920defb</id>
+    <link href="https://me.chjiyun.com/p/920defb"/>
+    <id>https://me.chjiyun.com/p/920defb</id>
     <published>2018-04-15T04:44:26.000Z</published>
     <updated>2023-04-16T10:03:18.906Z</updated>
     
@@ -201,19 +201,19 @@
     
     
     
-    <category term="javascript" scheme="http://me.chjiyun.com/categories/javascript/"/>
+    <category term="javascript" scheme="https://me.chjiyun.com/categories/javascript/"/>
     
-    <category term="可视化" scheme="http://me.chjiyun.com/categories/javascript/%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+    <category term="可视化" scheme="https://me.chjiyun.com/categories/javascript/%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
     
     
-    <category term="D3.js" scheme="http://me.chjiyun.com/tags/D3-js/"/>
+    <category term="D3.js" scheme="https://me.chjiyun.com/tags/D3-js/"/>
     
   </entry>
   
   <entry>
     <title>CSS旋转头像特效</title>
-    <link href="http://me.chjiyun.com/p/377982"/>
-    <id>http://me.chjiyun.com/p/377982</id>
+    <link href="https://me.chjiyun.com/p/377982"/>
+    <id>https://me.chjiyun.com/p/377982</id>
     <published>2018-03-25T11:24:23.000Z</published>
     <updated>2023-04-16T10:03:18.909Z</updated>
     
@@ -224,17 +224,17 @@
     
     
     
-    <category term="CSS" scheme="http://me.chjiyun.com/categories/CSS/"/>
+    <category term="CSS" scheme="https://me.chjiyun.com/categories/CSS/"/>
     
     
-    <category term="CSS" scheme="http://me.chjiyun.com/tags/CSS/"/>
+    <category term="CSS" scheme="https://me.chjiyun.com/tags/CSS/"/>
     
   </entry>
   
   <entry>
     <title>D3.js绘制可交互的树状图</title>
-    <link href="http://me.chjiyun.com/p/c7a696d1"/>
-    <id>http://me.chjiyun.com/p/c7a696d1</id>
+    <link href="https://me.chjiyun.com/p/c7a696d1"/>
+    <id>https://me.chjiyun.com/p/c7a696d1</id>
     <published>2018-03-17T12:19:18.000Z</published>
     <updated>2023-04-16T10:03:18.911Z</updated>
     
@@ -246,19 +246,19 @@
     
     
     
-    <category term="javascript" scheme="http://me.chjiyun.com/categories/javascript/"/>
+    <category term="javascript" scheme="https://me.chjiyun.com/categories/javascript/"/>
     
-    <category term="可视化" scheme="http://me.chjiyun.com/categories/javascript/%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
+    <category term="可视化" scheme="https://me.chjiyun.com/categories/javascript/%E5%8F%AF%E8%A7%86%E5%8C%96/"/>
     
     
-    <category term="D3.js" scheme="http://me.chjiyun.com/tags/D3-js/"/>
+    <category term="D3.js" scheme="https://me.chjiyun.com/tags/D3-js/"/>
     
   </entry>
   
   <entry>
     <title>CSS实现自适应九宫格布局</title>
-    <link href="http://me.chjiyun.com/p/6198d1c8"/>
-    <id>http://me.chjiyun.com/p/6198d1c8</id>
+    <link href="https://me.chjiyun.com/p/6198d1c8"/>
+    <id>https://me.chjiyun.com/p/6198d1c8</id>
     <published>2017-12-08T08:38:46.000Z</published>
     <updated>2023-04-16T10:03:18.905Z</updated>
     
@@ -269,17 +269,17 @@
     
     
     
-    <category term="CSS" scheme="http://me.chjiyun.com/categories/CSS/"/>
+    <category term="CSS" scheme="https://me.chjiyun.com/categories/CSS/"/>
     
     
-    <category term="CSS" scheme="http://me.chjiyun.com/tags/CSS/"/>
+    <category term="CSS" scheme="https://me.chjiyun.com/tags/CSS/"/>
     
   </entry>
   
   <entry>
     <title>正则表达式</title>
-    <link href="http://me.chjiyun.com/p/2f57a694"/>
-    <id>http://me.chjiyun.com/p/2f57a694</id>
+    <link href="https://me.chjiyun.com/p/2f57a694"/>
+    <id>https://me.chjiyun.com/p/2f57a694</id>
     <published>2017-11-27T13:19:27.000Z</published>
     <updated>2023-05-06T15:10:32.904Z</updated>
     
@@ -292,17 +292,17 @@
     
     
     
-    <category term="javascript" scheme="http://me.chjiyun.com/categories/javascript/"/>
+    <category term="javascript" scheme="https://me.chjiyun.com/categories/javascript/"/>
     
     
-    <category term="regexp" scheme="http://me.chjiyun.com/tags/regexp/"/>
+    <category term="regexp" scheme="https://me.chjiyun.com/tags/regexp/"/>
     
   </entry>
   
   <entry>
     <title>centos7下安装与配置nginx</title>
-    <link href="http://me.chjiyun.com/p/fd3d3d5f"/>
-    <id>http://me.chjiyun.com/p/fd3d3d5f</id>
+    <link href="https://me.chjiyun.com/p/fd3d3d5f"/>
+    <id>https://me.chjiyun.com/p/fd3d3d5f</id>
     <published>2017-11-22T04:35:34.000Z</published>
     <updated>2023-04-16T10:03:18.914Z</updated>
     
@@ -313,19 +313,19 @@
     
     
     
-    <category term="nginx" scheme="http://me.chjiyun.com/categories/nginx/"/>
+    <category term="nginx" scheme="https://me.chjiyun.com/categories/nginx/"/>
     
     
-    <category term="centos" scheme="http://me.chjiyun.com/tags/centos/"/>
+    <category term="centos" scheme="https://me.chjiyun.com/tags/centos/"/>
     
-    <category term="nginx" scheme="http://me.chjiyun.com/tags/nginx/"/>
+    <category term="nginx" scheme="https://me.chjiyun.com/tags/nginx/"/>
     
   </entry>
   
   <entry>
     <title>vagrant搭建开发环境</title>
-    <link href="http://me.chjiyun.com/p/8d911ef0"/>
-    <id>http://me.chjiyun.com/p/8d911ef0</id>
+    <link href="https://me.chjiyun.com/p/8d911ef0"/>
+    <id>https://me.chjiyun.com/p/8d911ef0</id>
     <published>2017-11-21T04:13:34.000Z</published>
     <updated>2023-04-16T10:03:18.922Z</updated>
     
@@ -339,21 +339,21 @@
     
     
     
-    <category term="工具" scheme="http://me.chjiyun.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    <category term="工具" scheme="https://me.chjiyun.com/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="centos" scheme="http://me.chjiyun.com/tags/centos/"/>
+    <category term="centos" scheme="https://me.chjiyun.com/tags/centos/"/>
     
-    <category term="vagrant" scheme="http://me.chjiyun.com/tags/vagrant/"/>
+    <category term="vagrant" scheme="https://me.chjiyun.com/tags/vagrant/"/>
     
-    <category term="virtualbox" scheme="http://me.chjiyun.com/tags/virtualbox/"/>
+    <category term="virtualbox" scheme="https://me.chjiyun.com/tags/virtualbox/"/>
     
   </entry>
   
   <entry>
     <title>windows命令行利器-Cmder</title>
-    <link href="http://me.chjiyun.com/p/ada2885b"/>
-    <id>http://me.chjiyun.com/p/ada2885b</id>
+    <link href="https://me.chjiyun.com/p/ada2885b"/>
+    <id>https://me.chjiyun.com/p/ada2885b</id>
     <published>2017-11-15T07:14:27.000Z</published>
     <updated>2023-04-16T10:03:18.925Z</updated>
     
@@ -365,19 +365,19 @@
     
     
     
-    <category term="工具" scheme="http://me.chjiyun.com/categories/%E5%B7%A5%E5%85%B7/"/>
+    <category term="工具" scheme="https://me.chjiyun.com/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="cmd" scheme="http://me.chjiyun.com/tags/cmd/"/>
+    <category term="cmd" scheme="https://me.chjiyun.com/tags/cmd/"/>
     
-    <category term="windows" scheme="http://me.chjiyun.com/tags/windows/"/>
+    <category term="windows" scheme="https://me.chjiyun.com/tags/windows/"/>
     
   </entry>
   
   <entry>
     <title>Angular4.x项目如何实现跨域</title>
-    <link href="http://me.chjiyun.com/p/877439e"/>
-    <id>http://me.chjiyun.com/p/877439e</id>
+    <link href="https://me.chjiyun.com/p/877439e"/>
+    <id>https://me.chjiyun.com/p/877439e</id>
     <published>2017-11-06T04:12:49.000Z</published>
     <updated>2023-05-06T15:10:29.860Z</updated>
     
@@ -396,19 +396,19 @@
     
     
     
-    <category term="angular" scheme="http://me.chjiyun.com/categories/angular/"/>
+    <category term="angular" scheme="https://me.chjiyun.com/categories/angular/"/>
     
     
-    <category term="angular" scheme="http://me.chjiyun.com/tags/angular/"/>
+    <category term="angular" scheme="https://me.chjiyun.com/tags/angular/"/>
     
-    <category term="跨域" scheme="http://me.chjiyun.com/tags/%E8%B7%A8%E5%9F%9F/"/>
+    <category term="跨域" scheme="https://me.chjiyun.com/tags/%E8%B7%A8%E5%9F%9F/"/>
     
   </entry>
   
   <entry>
     <title>Array对象及原型</title>
-    <link href="http://me.chjiyun.com/p/b9ce5a07"/>
-    <id>http://me.chjiyun.com/p/b9ce5a07</id>
+    <link href="https://me.chjiyun.com/p/b9ce5a07"/>
+    <id>https://me.chjiyun.com/p/b9ce5a07</id>
     <published>2017-09-18T15:54:28.000Z</published>
     <updated>2023-04-16T10:03:18.904Z</updated>
     
@@ -419,17 +419,17 @@
     
     
     
-    <category term="javascript" scheme="http://me.chjiyun.com/categories/javascript/"/>
+    <category term="javascript" scheme="https://me.chjiyun.com/categories/javascript/"/>
     
     
-    <category term="javascript" scheme="http://me.chjiyun.com/tags/javascript/"/>
+    <category term="javascript" scheme="https://me.chjiyun.com/tags/javascript/"/>
     
   </entry>
   
   <entry>
     <title>两步解决百度爬虫无法爬取git博客的问题</title>
-    <link href="http://me.chjiyun.com/p/1f7baa70"/>
-    <id>http://me.chjiyun.com/p/1f7baa70</id>
+    <link href="https://me.chjiyun.com/p/1f7baa70"/>
+    <id>https://me.chjiyun.com/p/1f7baa70</id>
     <published>2017-09-08T07:23:57.000Z</published>
     <updated>2023-04-16T10:03:18.929Z</updated>
     
@@ -445,21 +445,21 @@
     
     
     
-    <category term="SEO" scheme="http://me.chjiyun.com/categories/SEO/"/>
+    <category term="SEO" scheme="https://me.chjiyun.com/categories/SEO/"/>
     
     
-    <category term="百度蜘蛛" scheme="http://me.chjiyun.com/tags/%E7%99%BE%E5%BA%A6%E8%9C%98%E8%9B%9B/"/>
+    <category term="百度蜘蛛" scheme="https://me.chjiyun.com/tags/%E7%99%BE%E5%BA%A6%E8%9C%98%E8%9B%9B/"/>
     
-    <category term="Github Pages" scheme="http://me.chjiyun.com/tags/Github-Pages/"/>
+    <category term="Github Pages" scheme="https://me.chjiyun.com/tags/Github-Pages/"/>
     
-    <category term="SEO" scheme="http://me.chjiyun.com/tags/SEO/"/>
+    <category term="SEO" scheme="https://me.chjiyun.com/tags/SEO/"/>
     
   </entry>
   
   <entry>
     <title>CSS实现水平垂直居中方法</title>
-    <link href="http://me.chjiyun.com/p/342ecda0"/>
-    <id>http://me.chjiyun.com/p/342ecda0</id>
+    <link href="https://me.chjiyun.com/p/342ecda0"/>
+    <id>https://me.chjiyun.com/p/342ecda0</id>
     <published>2017-09-06T10:09:07.000Z</published>
     <updated>2023-04-16T10:03:18.902Z</updated>
     
@@ -471,17 +471,17 @@
     
     
     
-    <category term="CSS" scheme="http://me.chjiyun.com/categories/CSS/"/>
+    <category term="CSS" scheme="https://me.chjiyun.com/categories/CSS/"/>
     
     
-    <category term="CSS" scheme="http://me.chjiyun.com/tags/CSS/"/>
+    <category term="CSS" scheme="https://me.chjiyun.com/tags/CSS/"/>
     
   </entry>
   
   <entry>
     <title>行块级元素的那些事儿</title>
-    <link href="http://me.chjiyun.com/p/b11c2ea"/>
-    <id>http://me.chjiyun.com/p/b11c2ea</id>
+    <link href="https://me.chjiyun.com/p/b11c2ea"/>
+    <id>https://me.chjiyun.com/p/b11c2ea</id>
     <published>2017-09-03T13:30:13.000Z</published>
     <updated>2023-04-16T10:03:18.940Z</updated>
     
@@ -492,10 +492,10 @@
     
     
     
-    <category term="CSS" scheme="http://me.chjiyun.com/categories/CSS/"/>
+    <category term="CSS" scheme="https://me.chjiyun.com/categories/CSS/"/>
     
     
-    <category term="CSS" scheme="http://me.chjiyun.com/tags/CSS/"/>
+    <category term="CSS" scheme="https://me.chjiyun.com/tags/CSS/"/>
     
   </entry>
   
